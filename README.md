@@ -210,3 +210,19 @@ or
 ng g m my-module
 ```
 
+
+
+______________________________________________________________________________________________
+
+
+
+
+
+## Creating a build
+
+```
+ng build --prod
+```
+>The build artifacts will be stored in the dist/ directory.
+
+
