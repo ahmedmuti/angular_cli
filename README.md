@@ -295,7 +295,7 @@ Open Powershell on Administrator Mode
 npm uninstall -g angular-cli  
 
 ```
-***For Mac**
+***For Mac***
 ```
 sudo npm uninstall -g angular-cli 
 ```
@@ -304,24 +304,20 @@ sudo npm uninstall -g angular-cli
 
 ```
  npm cache verify
- 
 ```
 Then you need to hit the following command.
 ```
 npm cache clean
-
 ```
 
 **Now, install the Angular CLI using the following command.**
 ```
 npm install -g angular-cli@latest
-
 ```
 >After updating both the global and local package, clear the cache to avoid errors.
 
 ```
 npm cache verify
-
 npm cache clean
 ```
 
