@@ -271,3 +271,66 @@ ________________________________________________________________________________
 Simply install your library via `npm install lib-name --save` .
 
 
+
+
+______________________________________________________________________________________________
+
+
+
+## Updating angular-cli
+
+You can check your current **version** of Angular CLI using the following command.
+
+`
+ng --version
+`
+
+To update the latest angular-cli package installed globally in your system,
+you need to run the following commands.
+
+***For Windows**
+Open Powershell on Administrator Mode
+`
+npm uninstall -g angular-cli  
+
+`
+***For Mac**
+`
+sudo npm uninstall -g angular-cli 
+`
+
+**Then we need to clear the cache using the following command.**
+
+`
+ npm cache verify
+ 
+`
+Then you need to hit the following command.
+`
+npm cache clean
+
+`
+
+**Now, install the Angular CLI using the following command.**
+`
+npm install -g angular-cli@latest
+
+`
+>After updating both the global and local package, clear the cache to avoid errors.
+
+`
+npm cache verify
+
+npm cache clean
+`
+
+
+
+
+
+
+
+
+
+
+
