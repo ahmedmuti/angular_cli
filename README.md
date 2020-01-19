@@ -284,6 +284,8 @@ You can check your current **version** of Angular CLI using the following comman
 ```
 ng --version
 ```
+If you're using Angular CLI 1.0.0-beta.28 or less, 
+you need to ***uninstall*** angular-cli package.
 
 To update the latest angular-cli package installed globally in your system,
 you need to run the following commands.
@@ -293,7 +295,6 @@ you need to run the following commands.
 Open Powershell on Administrator Mode
 ```
 npm uninstall -g angular-cli  
-
 ```
 ***For Mac***
 ```
