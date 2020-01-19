@@ -226,3 +226,29 @@ ng build --prod
 >The build artifacts will be stored in the dist/ directory.
 
 
+
+______________________________________________________________________________________________
+
+
+
+
+## Proxy To Backend
+
+>Using the proxying support in webpack's dev server we can highjack certain urls and send them to a backend server. 
+>We do this by passing a file to `--proxy-config`
+
+   
+>Say we have a server running on `http://localhost:3000/api`
+and we want all calls `http://localhost:4200/api` to go to that server.
+
+
+We ***create*** a file ***next*** to projects `package.json` called `proxy.conf.json` with the content
+
+```
+{
+  "/api": {
+    "target": "http://localhost:3000",
+    "secure": false
+  }
+}
+```
