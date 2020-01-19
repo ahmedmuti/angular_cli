@@ -266,4 +266,8 @@ ________________________________________________________________________________
 
 
 
+## 3rd Party Library Installation
+
+>Simply install your library via `npm install lib-name --save` .
+
 
