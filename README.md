@@ -58,10 +58,94 @@ ng g c my-new-component
 > Note: `my-new-component` means component name . you can type any name you want 
 
 
+**Directive**
+
+```
+ng generate directive my-new-directive
+```
+
+or 
+
+```
+ng g d my-new-directive
+```
+
+**Pipe**
 
 
+```
+ng generate pipe my-new-pipe
+```
+
+or 
+
+```
+ng g p my-new-pipe
+```
 
 
+**Service**
 
 
+```
+ng generate service my-new-service
+```
+
+or 
+
+```
+ng g s my-new-service
+```
+
+**Class**
+
+
+```
+ng generate class my-new-class
+```
+
+or 
+
+```
+ng g cl  my-new-class
+```
+
+**Interface**
+
+
+```
+ng generate interface my-new-interface
+```
+
+or 
+
+```
+ng g i  my-new-interface
+```
+
+**Enum**
+
+
+```
+ng generate enum my-new-enum
+```
+
+or 
+
+```
+ng g e  my-new-enum
+```
+
+**Module**
+
+
+```
+ng generate module my-module
+```
+
+or 
+
+```
+ng g m my-module
+```
 
