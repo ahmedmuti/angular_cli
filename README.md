@@ -38,12 +38,12 @@ you can type any number you want
 
 
 
-### Generating Components, Directives, Pipes and Services
+## Generating Components, Directives, Pipes and Services
 
 >You can use the ng generate (or just ng g) command to generate Angular components or Directives or anything :
 
 
-##### Component
+### Component
 
 ```
 ng generate component my-new-component
