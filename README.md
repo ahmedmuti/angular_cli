@@ -252,3 +252,12 @@ We ***create*** a file ***next*** to projects `package.json` called `proxy.conf.
   }
 }
 ```
+and then we ***edit** the package.json file's ***start*** script to be
+```
+"start": "ng serve --proxy-config proxy.conf.json",
+```
+
+and now run it with `***npm start***`
+
+
+
