@@ -58,9 +58,9 @@ ng g c my-new-component
 
 
 
-
+______________________________________________________________________________________________
 -------------------------------------------------------------------------------------------
-###Directive
+### Directive
 
 ```
 ng generate directive my-new-directive
@@ -72,7 +72,7 @@ or
 ng g d my-new-directive
 ```
 
-###Pipe
+### Pipe
 
 
 ```
@@ -86,7 +86,7 @@ ng g p my-new-pipe
 ```
 
 
-###Service
+### Service
 
 
 ```
@@ -99,7 +99,7 @@ or
 ng g s my-new-service
 ```
 
-###Class
+### Class
 
 
 ```
@@ -112,7 +112,7 @@ or
 ng g cl  my-new-class
 ```
 
-###Interface
+### Interface
 
 
 ```
@@ -125,7 +125,7 @@ or
 ng g i  my-new-interface
 ```
 
-###Enum
+### Enum
 
 
 ```
@@ -138,7 +138,7 @@ or
 ng g e  my-new-enum
 ```
 
-###Module
+### Module
 
 
 ```
