@@ -257,7 +257,13 @@ and then we ***edit** the package.json file's ***start*** script to be
 "start": "ng serve --proxy-config proxy.conf.json",
 ```
 
-and now run it with `***npm start***`
+and now ***run*** it with ` npm start `
+
+
+
+
+______________________________________________________________________________________________
+
 
 
 
