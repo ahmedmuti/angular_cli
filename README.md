@@ -325,8 +325,19 @@ npm cache clean
 
 
 
+______________________________________________________________________________________________
 
 
+
+
+
+## Update Angular Packages
+
+If you have created an Angular project, then go inside that folder then open CMD and type the following command.
+
+```
+ng update
+```
 
 
 
