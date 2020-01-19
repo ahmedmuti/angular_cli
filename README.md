@@ -23,12 +23,11 @@ ng serve
 
 >you can use ``` ng serve --open ``` or ``` ng s --o ``` to Navigate automatically to ``` http://localhost:4200/.```  
 
->You can configure the default HTTP port and the one used by the LiveReload server with two command-line options :
+>You can configure the default HTTP port and the one used by the LiveReload server with this command-line :
 
 ```
 ng serve --open --port 0.0.0.0
-Note 0.0.0.0 means port number such as 4300 or 4500 
+Note: `0.0.0.0` means port number such as 4300 or 4500 
 
 you can type any number you want 
 ```
-:EMOJICODE:
