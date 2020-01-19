@@ -320,7 +320,7 @@ npm install -g angular-cli@latest
 ```
 npm cache verify
 npm cache clean
-```
+```  
 
 
 
