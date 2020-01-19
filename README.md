@@ -1,6 +1,6 @@
 
 
-**Installation**
+# Installation
 
 ``` 
 npm install -g angular-cli 
