@@ -43,7 +43,7 @@ you can type any number you want
 >You can use the ng generate (or just ng g) command to generate Angular components or Directives or anything :
 
 
-**Component**
+**#Component**
 
 ```
 ng generate component my-new-component
@@ -58,7 +58,7 @@ ng g c my-new-component
 > Note: `my-new-component` means component name . you can type any name you want 
 
 
-**Directive**
+**#Directive**
 
 ```
 ng generate directive my-new-directive
@@ -70,7 +70,7 @@ or
 ng g d my-new-directive
 ```
 
-**Pipe**
+**#Pipe**
 
 
 ```
@@ -84,7 +84,7 @@ ng g p my-new-pipe
 ```
 
 
-**Service**
+**#Service**
 
 
 ```
@@ -97,7 +97,7 @@ or
 ng g s my-new-service
 ```
 
-**Class**
+**#Class**
 
 
 ```
@@ -110,7 +110,7 @@ or
 ng g cl  my-new-class
 ```
 
-**Interface**
+**#Interface**
 
 
 ```
@@ -123,7 +123,7 @@ or
 ng g i  my-new-interface
 ```
 
-**Enum**
+**#Enum**
 
 
 ```
@@ -136,7 +136,7 @@ or
 ng g e  my-new-enum
 ```
 
-**Module**
+**#Module**
 
 
 ```
