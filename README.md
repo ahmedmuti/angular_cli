@@ -45,11 +45,15 @@ you can type any number you want
 
 **Component**
 
-```ng generate component my-new-component```
+```
+ng generate component my-new-component
+```
 
 or 
 
-```ng g c my-new-component```
+```
+ng g c my-new-component
+```
 
 >my-new-component means component name you also can type any name you want 
 
