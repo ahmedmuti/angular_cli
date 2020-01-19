@@ -55,7 +55,7 @@ or
 ng g c my-new-component
 ```
 
-> `my-new-component` means component name . you can type any name you want 
+> Note: `my-new-component` means component name . you can type any name you want 
 
 
 
