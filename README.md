@@ -288,7 +288,8 @@ ng --version
 To update the latest angular-cli package installed globally in your system,
 you need to run the following commands.
 
-***For Windows**
+***For Windows*** 
+
 Open Powershell on Administrator Mode
 ```
 npm uninstall -g angular-cli  
