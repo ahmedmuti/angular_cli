@@ -43,7 +43,7 @@ you can type any number you want
 >You can use the ng generate (or just ng g) command to generate Angular components or Directives or anything :
 
 
-#####Component
+##### Component
 
 ```
 ng generate component my-new-component
