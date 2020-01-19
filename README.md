@@ -1,6 +1,6 @@
 
 
-##Installation##
+**Installation**
 
 ``` 
 npm install -g angular-cli 
@@ -19,15 +19,15 @@ ng new PROJECT_NAME
 cd PROJECT_NAME
 ng serve
 ```
->Navigate to ``` http://localhost:4200/.``` The app will automatically reload if you change any of the source files.**
+>Navigate to ``` http://localhost:4200/.``` The app will automatically reload if you change any of the source files.
 
->you can use ``` ng serve --open ``` or ``` ng s --o ``` to Navigate automatically to ``` http://localhost:4200/.```  **
+>you can use ``` ng serve --open ``` or ``` ng s --o ``` to Navigate automatically to ``` http://localhost:4200/.```  
 
->You can configure the default HTTP port and the one used by the LiveReload server with two command-line options :**
+>You can configure the default HTTP port and the one used by the LiveReload server with two command-line options :
 
 ```
 ng serve --open --port 0.0.0.0
 Note 0.0.0.0 means port number such as 4300 or 4500 
 
->you can type any number you want 
+you can type any number you want 
 ```
