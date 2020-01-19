@@ -48,9 +48,7 @@ you can type any number you want
 ```
 ng generate component my-new-component
 ```
-
 or 
-
 ```
 ng g c my-new-component
 ```
