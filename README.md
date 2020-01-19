@@ -259,7 +259,7 @@ and then we ***edit** the package.json file's ***start*** script to be
 
 and now ***run*** it with ` npm start `
 
-
+[Watch a Configure Proxy video](https://www.youtube.com/watch?v=z1MUmTjYKH8)
 
 
 ______________________________________________________________________________________________
