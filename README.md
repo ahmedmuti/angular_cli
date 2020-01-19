@@ -8,7 +8,7 @@ npm install -g angular-cli
 
 
 
-**Usage**
+**Usage** 
 
 ```
 ng --help 
