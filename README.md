@@ -28,6 +28,20 @@ ng serve
 ```
 ng serve --open --port 0.0.0.0
 Note: `0.0.0.0` means port number such as 4300 or 4500 
-
 you can type any number you want 
 ```
+
+**Generating Components, Directives, Pipes and Services**
+
+>You can use the ng generate (or just ng g) command to generate Angular components or Directives or anything :
+
+**Component**
+```ng generate component my-new-component```
+or 
+
+```ng g c my-new-component```
+>my-new-component means component name you also can type any name you want 
+
+
+
+
